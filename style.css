@@ -1,8 +1,7 @@
-body {
+body, ul {
     background-color: #e5e5e5;
-li {
     text-align: center;
     margin: 30px, auto, 0;
     font-family: 'Libre Baskerville', serif;
-    color: #000000;
+    list-style: none;
 }
