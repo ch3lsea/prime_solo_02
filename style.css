@@ -2,8 +2,7 @@ body {
     background-color: #e5e5e5;
 li {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 600px;
+    margin: 10% auto 0;
     font-family: 'Libre Baskerville', serif;
+    color: #000000;
 }
