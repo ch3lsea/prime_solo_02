@@ -1,0 +1,9 @@
+body {
+    background-color: #e5e5e5;
+li {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    font-family: 'Libre Baskerville', serif;
+}
